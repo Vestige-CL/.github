@@ -2,7 +2,7 @@
 
 **Tecnología para la vida universitaria.**
 
-Creamos herramientas para instituciones académicas a partir de problemas reales de sus estudiantes. Somos un equipo de estudiantes de Ingeniería Informática de la Universidad de La Frontera, en Chile.
+Creamos herramientas para instituciones académicas a partir de problemas reales de sus estudiantes. Somos un equipo de estudiantes de Ingeniería Informática de la Universidad de La Frontera, en Temuco, Chile.
 
 ## Proyectos
 
@@ -21,7 +21,8 @@ Creamos herramientas para instituciones académicas a partir de problemas reales
 
 - Sitio: [vestige.cl](https://vestige.cl)
 - Correo: [contacto@vestige.cl](mailto:contacto@vestige.cl)
+- LinkedIn: [Vestige](https://www.linkedin.com/company/vestige-cl/)
 
 ---
 
-*Vestige builds software for universities, starting from problems students actually have. Based in Chile.*
+*Vestige builds software for universities, starting from problems students actually have. Based in Temuco, Chile.*
