@@ -9,7 +9,7 @@ Creamos herramientas para instituciones académicas a partir de problemas reales
 | Proyecto | Qué hace | Estado |
 |---|---|---|
 | **Recorre Ufro** | El mapa del campus, tu horario y navegación a pie hasta la sala correcta, en una sola app. Funciona incluso sin conexión. | Piloto en desarrollo |
-| **DidIAssist** | Registra sola tu asistencia cuando llegas al campus y te avisa cuándo salir. Sin cuentas ni servidores: tu ubicación nunca sale del teléfono. | En desarrollo |
+| **DidIAttend** | Registra sola tu asistencia cuando llegas al campus y te avisa cuándo salir. Sin cuentas ni servidores: tu ubicación nunca sale del teléfono. | En desarrollo |
 
 ## Cómo trabajamos
 
